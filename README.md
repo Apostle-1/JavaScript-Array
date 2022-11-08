@@ -1,4 +1,4 @@
-# JavaScript-Codes
+# JavaScript-Array
 <!DOCTYPE html>
 <html lang="en">
 <head>
